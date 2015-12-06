@@ -1,0 +1,17 @@
+..\obj\duoji.o: ..\HARDWARE\duoji\duoji.c
+..\obj\duoji.o: ..\HARDWARE\duoji\duoji.h
+..\obj\duoji.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\duoji.o: ..\USER\stm32f10x.h
+..\obj\duoji.o: ..\CORE\core_cm3.h
+..\obj\duoji.o: D:\KeilMDK\ARMCC\bin\..\include\stdint.h
+..\obj\duoji.o: ..\USER\system_stm32f10x.h
+..\obj\duoji.o: ..\USER\stm32f10x_conf.h
+..\obj\duoji.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\duoji.o: ..\USER\stm32f10x.h
+..\obj\duoji.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\duoji.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\duoji.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\duoji.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\duoji.o: ..\HARDWARE\TIMER\timer.h
+..\obj\duoji.o: ..\SYSTEM\sys\sys.h
+..\obj\duoji.o: ..\SYSTEM\delay\delay.h

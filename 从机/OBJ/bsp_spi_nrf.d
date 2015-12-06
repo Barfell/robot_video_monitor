@@ -1,0 +1,14 @@
+..\obj\bsp_spi_nrf.o: ..\HARDWARE\NRF24L01\bsp_spi_nrf.c
+..\obj\bsp_spi_nrf.o: ..\HARDWARE\NRF24L01\bsp_spi_nrf.h
+..\obj\bsp_spi_nrf.o: ..\USER\stm32f10x.h
+..\obj\bsp_spi_nrf.o: ..\CORE\core_cm3.h
+..\obj\bsp_spi_nrf.o: D:\KeilMDK\ARMCC\bin\..\include\stdint.h
+..\obj\bsp_spi_nrf.o: ..\USER\system_stm32f10x.h
+..\obj\bsp_spi_nrf.o: ..\USER\stm32f10x_conf.h
+..\obj\bsp_spi_nrf.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\bsp_spi_nrf.o: ..\USER\stm32f10x.h
+..\obj\bsp_spi_nrf.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\bsp_spi_nrf.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\bsp_spi_nrf.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\bsp_spi_nrf.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\bsp_spi_nrf.o: ..\STM32F10x_FWLib\inc\stm32f10x_spi.h
