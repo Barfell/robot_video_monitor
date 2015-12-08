@@ -1,6 +1,10 @@
 # robot_video_monitor
 基于stm32的远程视频监控移动机器人
 
+[![Code Climate](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/badges/66ebb9f8794585b32de1/gpa.svg)](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/feed)
+[![Test Coverage](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/badges/66ebb9f8794585b32de1/coverage.svg)](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/coverage)
+[![Issue Count](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/badges/66ebb9f8794585b32de1/issue_count.svg)](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/feed)
+
 ##功能
 
 * 远程控制车
@@ -10,7 +14,19 @@
   * 舵机上下转
 * 视频远程传输
 * 温湿度数据wifi传输 
+* 传感器数据网页前端显示 
 
+##设计 
+
+###电路设计
+* 主机
+* 从机   
+
+###软件设计 
+
+* 主机
+* 从机
+* 前端  
 
 ##License
 
