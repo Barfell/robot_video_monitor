@@ -1,5 +1,5 @@
 # robot_video_monitor
-基于stm32的远程视频监控移动机器人
+基于stm32的远程监测系统
 
 [![Code Climate](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/badges/66ebb9f8794585b32de1/gpa.svg)](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/feed)
 [![Test Coverage](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/badges/66ebb9f8794585b32de1/coverage.svg)](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/coverage)
