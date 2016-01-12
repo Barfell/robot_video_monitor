@@ -5,7 +5,7 @@
 [![Test Coverage](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/badges/66ebb9f8794585b32de1/coverage.svg)](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/coverage)
 [![Issue Count](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/badges/66ebb9f8794585b32de1/issue_count.svg)](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/feed)
 
-##功能
+## **功能**
 
 * 远程控制车
   * 车体 
@@ -18,10 +18,10 @@
 * 温湿度数据wifi传输 
 * 传感器数据网页前端显示 
   * 服务器接收
-  * 数据库保存
-  * 前端调用数据库数据    
+  * 数据库保存（待实现）
+  * 前端调用数据库数据,并显示(待实现)  
 
-##设计 
+## **设计** 
 
 ###电路设计
 * 主机
@@ -37,4 +37,4 @@
 
 © 2015 [Chenshuaifei][mindthink]. This code is distributed under the MIT license.
 
-[mindthink]: http://www.chenshuaifei.com/
+[mindthink]: http://www.chenshuaifei.gotoip2.com/
