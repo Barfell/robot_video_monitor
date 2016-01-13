@@ -1,4 +1,8 @@
-# robot_video_monitor
+
+
+---
+
+# remote-monitoring-system
 远程监测系统
 
 [![Issue Count](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/badges/66ebb9f8794585b32de1/issue_count.svg)](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/feed)
@@ -13,11 +17,11 @@
      * 舵机左右转
      * 舵机上下转
 * 视频远程传输
-* 温湿度数据wifi传输 
+* 温度数据wifi传输 
 * 传感器数据网页前端显示 
   * 服务器接收![](up.png)
   * 数据库保存（待实现）
-  * 前端调用数据库数据,并显示(待实现)  
+  * 前端实时调用数据库数据,并显示(待实现)  
 
 ## **设计** 
 
