@@ -5,5 +5,5 @@
    * [无线传输技术](wireless transmission.md)
    * [硬件设计](hardware.md)
        * [主机](master.md)
-       * 从机
+       * [从机](slave.md)
 
