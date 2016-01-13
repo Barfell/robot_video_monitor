@@ -1,6 +1,6 @@
 # 系统架构
 
-应用层
+应用层:用户通过浏览器访问网页，查看
 
 服务器：LAMP(Linux+Apache+Mysql+PHP/Perl/Python),构建动态网页
 
