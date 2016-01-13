@@ -6,4 +6,5 @@
    * [硬件设计](hardware.md)
        * [主机](master.md)
        * [从机](slave.md)
+   * 软件设计
 
