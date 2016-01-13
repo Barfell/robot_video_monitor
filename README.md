@@ -40,4 +40,4 @@
 
 © 2015 [Chenshuaifei][mindthink]. This code is distributed under the MIT license.
 
-[mindthink]: http://www.chenshuaifei.gotoip2.com/
+[mindthink]: http://chenshuaifei.gotoip2.com/
