@@ -3,7 +3,7 @@
 ---
 
 # remote-monitoring-system
-远程监测系统
+远程环境监测系统
 
 [![Issue Count](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/badges/66ebb9f8794585b32de1/issue_count.svg)](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/feed)
 
