@@ -1,8 +1,6 @@
 # robot_video_monitor
 远程监测系统
 
-[![Code Climate](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/badges/66ebb9f8794585b32de1/gpa.svg)](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/feed)
-[![Test Coverage](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/badges/66ebb9f8794585b32de1/coverage.svg)](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/coverage)
 [![Issue Count](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/badges/66ebb9f8794585b32de1/issue_count.svg)](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/feed)
 
 ## **功能**
