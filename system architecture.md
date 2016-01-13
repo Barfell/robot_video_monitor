@@ -1,3 +1,3 @@
 # 系统架构
 
-![](架构.png)
+![](architecture.png)
