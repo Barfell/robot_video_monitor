@@ -8,5 +8,5 @@
        * [从机](slave.md)
    * [软件设计](software.md)
    * [功能](functions.md)
-   * 服务器配置
+   * [服务器配置](server.md)
 
