@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [介绍](README.md)
    * [系统架构](system architecture.md)
    * [无线传输技术](wireless transmission.md)
    * [硬件设计](hardware.md)
