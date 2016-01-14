@@ -23,9 +23,7 @@
   * 数据库保存（待实现）
   * 前端实时调用数据库数据,并显示(待实现)  
 
-
 ## **著作权申明**
-
 本作品选择采用：署名-非商业性使用-相同方式共享的CC协议。
 * 您可以：复制、发行、展览、表演、放映、广播或通过信息网络传播本作品。以及创作演绎作品。
 惟须遵守下列条件：
@@ -35,7 +33,6 @@
 相同方式共享 — 如果您改变、转换本作品或者以本作品为基础进行创作，您只能采用与本协议相同的许可协议发布基于本作品的演绎作品。
 
 ##License
-
 © 2015 [Chenshuaifei][mindthink]. This code is distributed under the MIT license.
 
 [mindthink]: http://chenshuaifei.gotoip2.com/
