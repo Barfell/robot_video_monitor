@@ -8,7 +8,7 @@
 [![Issue Count](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/badges/66ebb9f8794585b32de1/issue_count.svg)](https://codeclimate.com/repos/5666e97318d0ce159e0003a2/feed)
 
 ## 项目简介
-本项目为物联网方向的一个探索，目的在于降低嵌入式设备联网传输数据的成本，并设计出一套架构，最后在此架构上设计出一套实物，实现了远程环境监测。
+本项目为物联网方向的一个探索，旨在降低嵌入式设备联网传输数据的成本，并设计出一套架构，最后在此架构上设计出一套实物，实现了远程环境监测。
 
 ## 项目托管地址
  [远程环境监测系统](https://github.com/mindthink/robot_video_)
