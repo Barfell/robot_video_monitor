@@ -11,7 +11,7 @@
 本项目为物联网方向的一个探索，旨在降低嵌入式设备联网传输数据的成本，并设计出一套架构，最后在此架构上设计出一套实物，实现了远程环境监测。
 
 ## 项目托管地址
- [远程环境监测系统](https://github.com/mindthink/robot_video_)
+ [远程环境监测系统](https://github.com/mindthink/robot_video_monitor_)
 
 ## 项目开发者
 [阿飞](http://chenshuaifei.gotoip2.com/)
